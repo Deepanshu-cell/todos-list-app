@@ -1,11 +1,12 @@
 import React from 'react'
+import "./footer.css";
 // we can also import css files here
 
 export const Footer = () => {
     // we can make style object and then apply on to the tags within js file as seen below in footer
     // let footerStyle = {
     //     position: "sticky",
-    //     // top: "100vh",
+    //     margintop: "100vh",
     //     width: "100%"
     // }
 
